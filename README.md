@@ -8,7 +8,7 @@ Poin Ball is a simple project showcasing a pinball game with a futuristic-themed
 
 
 ### Live Demo
-[Arena Poinball](https://hulu-tv-clone-app.vercel.app/)
+[Arena Poinball](https://arena-poinball.vercel.app/)
 
 ## Features
 - **Interactive Pinball Game**: Displays an interactive pinball game within the browser.
