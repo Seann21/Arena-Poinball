@@ -16,7 +16,7 @@ Poin Ball is a simple project showcasing a pinball game with a futuristic-themed
 - **Score point**: Calculates and displays the player's score during gameplay, providing a greater challenge.
 
 ## Installation
-1. Clone the repo: `git clone https://github.com/Seann21/HuluTv-CloneApp.git`
+1. Clone the repo: `git clone https://github.com/Seann21/Arena-Poinball.git`
 2. Go to project directory: `cd Arena-Poinball`
 3. Open your Code Editor and Install the live preview Extension to go straight to your favorite browser
 
