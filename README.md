@@ -1,6 +1,10 @@
-# Arena PoinBall
+<h1 align="center"> Arena PoinBall </h1>
 
-<img src="img/Arena Poinball.png" alt="hulutv" width="600" height="500" align="center" />
+<div align="center">
+  <img src="img/Arena Poinball.png" alt="Chatyol ai" width="600" height="500" />
+</div>
+
+<br>
 
 
 Poin Ball is a simple project showcasing a pinball game with a futuristic-themed GIF background. This project is created using HTML, CSS, and JavaScript to deliver an engaging gaming experience.
